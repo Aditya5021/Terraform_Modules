@@ -1,0 +1,2 @@
+The main.tf file present under this folder is used to provision an EC2 instance using the resource present in AWS/resources/EC2 folder.
+This main.tf file contains the values of all the variables for the resource.
