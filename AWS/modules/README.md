@@ -1,0 +1,1 @@
+This folder contains all the module examples which can be used to provision any AWS services using the contents of the resources folder.
