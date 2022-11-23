@@ -1,4 +1,4 @@
 # Terraform_Modules
 Terraform modules creation project
 
-This repository has been created to contain terraform modules for creating resources in AWS.
+All the resources created here are created with Terraform version 1.3.5
