@@ -21,6 +21,8 @@ provider "aws" {
   #secret_key = "my-secret-key"
 
   default_tags {
-    Created-By = "Aditya"
+    tags = {
+      Created-By = "Aditya"
+    }
   }
 }
